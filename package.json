@@ -1,0 +1,9 @@
+{
+  "name": "orderahead",
+  "version": "1.0.0",
+  "description": "An application for employees at 407ETR to pre-order their food from the cafeteria online",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Shauda Islam, Rachel Zhu, Jack Yang",
+  "license": "ISC"
+}
